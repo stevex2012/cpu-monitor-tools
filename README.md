@@ -9,7 +9,7 @@ node服务cpu监控工具
 * 实时 Memory 堆内内存结构分析，帮助定位到内存疑似泄漏点
 
 ### 缺点：
-* cpu，Memory 使用历史记录
+* cpu，Memory 没有历史记录
 
 ### 快速开始
 npm install easy-monitor
@@ -20,7 +20,7 @@ easyMonitor('你的项目名称');
 测试环境访问地址：http://52.9.161.206:12333/index
 
 使用压测工具压测：开启cpu 分析，得到火焰图，并列出最耗时的5个函数：
-[https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png]()
+[](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png)
 
 
 
