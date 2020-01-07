@@ -20,9 +20,7 @@ easyMonitor('你的项目名称');
 测试环境访问地址：http://52.9.161.206:12333/index
 
 使用压测工具压测：开启cpu 分析，得到火焰图，并列出最耗时的5个函数：
-[百度]:https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png
-
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png)
 
 
 
