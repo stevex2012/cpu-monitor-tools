@@ -40,11 +40,12 @@ easyMonitor('你的项目名称');
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/4116958480.png)
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1626597578.png)
  
- 免费版只能建立4个项目，平台给的权限如下：
+ ##### 免费版只能建立4个项目，平台给的权限如下：
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1019297983.png)
  
- 收费版功能比较全面，能看到历史记录
-  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2779724437.png)
+ ##### 收费版功能比较全面，能看到历史记录
+ 
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2779724437.png)
   
   ### node服务器建议使用一个监控软件。图形化的界面便于操作和问题排查
 
