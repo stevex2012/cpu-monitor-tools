@@ -19,8 +19,15 @@ easyMonitor('你的项目名称');
 #### 已部署测试环境
 测试环境访问地址：http://52.9.161.206:12333/index
 
+1,cpu实时监控
+![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/4227359635.png)
+
+2.cpu分析火焰图
 使用压测工具压测：开启cpu 分析，得到火焰图，并列出最耗时的5个函数：
 ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png)
+
+3.内存泄漏检测：
+![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3064481883.png)
 
 
 
