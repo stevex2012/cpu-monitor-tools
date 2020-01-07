@@ -9,7 +9,7 @@ node服务cpu监控工具
 * 实时 Memory 堆内内存结构分析，帮助定位到内存疑似泄漏点
 
 ### 缺点：
-* cpu，Memory 没有历史记录
+* cpu，Memory 没有历史记录，cpu监控和pm2 monit 命令有差别
 
 ### 快速开始
 npm install easy-monitor
@@ -29,7 +29,22 @@ easyMonitor('你的项目名称');
 3.内存泄漏检测：
 ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3064481883.png)
 
-
-
-
+## 1.[pm2官方监控](https://app.pm2.io/bucket/5e1417080b29039111e044b3/backend/overview/servers)
+ 1.创建项目
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1308208061.png)
+ 
+ 2.修改dockerfile 和容器环境变量
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2427202519.png)
+ 
+ 3.启动容器，查看监控页面
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/4116958480.png)
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1626597578.png)
+ 
+ 免费版只能建立4个项目，平台给的权限如下：
+ ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1019297983.png)
+ 
+ 收费版功能比较全面，能看到历史记录
+  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2779724437.png)
+  
+  ### node服务器建议使用一个监控软件。图形化的界面便于操作和问题排查
 
