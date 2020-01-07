@@ -22,6 +22,8 @@ easyMonitor('你的项目名称');
 使用压测工具压测：开启cpu 分析，得到火焰图，并列出最耗时的5个函数：
 [百度]:https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png
 
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
+
 
 
 
