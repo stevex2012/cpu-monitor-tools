@@ -19,24 +19,24 @@ easyMonitor('你的项目名称');
 #### 已部署测试环境
 测试环境访问地址：http://52.9.161.206:12333/index
 
-1,cpu实时监控
+#### 1,cpu实时监控
 ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/4227359635.png)
 
 2.cpu分析火焰图
 使用压测工具压测：开启cpu 分析，得到火焰图，并列出最耗时的5个函数：
 ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3556853912.png)
 
-3.内存泄漏检测：
+#### 3.内存泄漏检测：
 ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/3064481883.png)
 
 ## 1.[pm2官方监控](https://app.pm2.io/bucket/5e1417080b29039111e044b3/backend/overview/servers)
- 1.创建项目
+ #### 1.创建项目
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1308208061.png)
  
- 2.修改dockerfile 和容器环境变量
+ #### 2.修改dockerfile 和容器环境变量
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2427202519.png)
  
- 3.启动容器，查看监控页面
+ #### 3.启动容器，查看监控页面
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/4116958480.png)
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1626597578.png)
  
