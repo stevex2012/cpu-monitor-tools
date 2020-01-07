@@ -43,7 +43,7 @@ easyMonitor('你的项目名称');
  ##### 免费版只能建立4个项目，平台给的权限如下：
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/1019297983.png)
  
- ##### 收费版功能比较全面，能看到历史记录
+ ##### 收费版功能比较全面，能看到历史记录等，大体功能如下：
  
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2779724437.png)
   
