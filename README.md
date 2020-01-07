@@ -47,5 +47,5 @@ easyMonitor('你的项目名称');
  
  ![Image text](https://s3-us-west-1.amazonaws.com/imgtest.firmoo.com/images/users/2020/0107/2779724437.png)
   
-  ### node服务器建议使用一个监控软件。图形化的界面便于操作和问题排查
+  
 
